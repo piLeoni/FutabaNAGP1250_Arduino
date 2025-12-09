@@ -74,4 +74,4 @@ For video or fast animations, ensure you connect the **SBUSY** pin. The library 
 
 ### Video Streaming (Node.js + ESP32)
 For a high-performance video streaming demonstration (30FPS with compression and dithering), check out the companion project:
-[**FutabaNAGP1250_Stream**](https://github.com/pleoni/FutabaNAGP1250_Stream)
+[**FutabaNAGP1250_Stream**](https://github.com/pileoni/FutabaNAGP1250_Stream)
