@@ -1,6 +1,6 @@
 {
   "name": "FutabaNAGP1250",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Arduino/PlatformIO driver for Futaba NAGP1250 VFDs.",
   "keywords": "display, vfd, futaba, nagp1250, graphics",
   "repository": {
