@@ -1,6 +1,6 @@
 # Futaba NAGP1250 Arduino Library
 
-![Video Stream Demo](https://github.com/piLeoni/FutabaNAGP1250_Arduino/blob/main/video_stream.gif)
+![Video Stream Demo](https://raw.githubusercontent.com/piLeoni/FutabaNAGP1250_Arduino/refs/heads/main/video_stream.gif)
 
 A high-performance Arduino/PlatformIO driver for the **Futaba NAGP1250** Vacuum Fluorescent Display (VFD).
 
